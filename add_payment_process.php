@@ -92,7 +92,7 @@ if (substr($phone, 0, 1) == "0") {
 |--------------------------------------------------------------------------
 */
 
-$apiKey = "QlRHYkt3eGNsRkpPbHFZUHRaeGI";
+$apiKey = "XXXXXXXXXXXXXXXXXXXXXX";
 
 $message = "Dear {$member_name}, your payment of GHS " .
 number_format($amount, 2) .
